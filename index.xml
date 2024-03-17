@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suanggi Tech</title>
+    <link>https://suanggiku.github.io/</link>
+    <description>Recent content on Suanggi Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id_ID</language>
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <atom:link href="https://suanggiku.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lapak Daget Suanggi Tech</title>
+      <link>https://suanggiku.github.io/lapak-daget/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>https://suanggiku.github.io/lapak-daget/</guid>
+      <description>&lt;p&gt;Selamat datang di Lapak Daget Suanggi Tech.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tentang Suanggitech</title>
+      <link>https://suanggiku.github.io/tentang/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>https://suanggiku.github.io/tentang/</guid>
+      <description>Hai! Selamat datang di SuanggiTech! Saya senang bisa berbagi dengan Anda semua mengenai hal-hal terkait teknologi dan tentu saja, dengan sentuhan praktis yang mudah dipahami. Yuk, mari kita eksplorasi dunia teknologi tanpa rasa takut, tetapi dengan semangat bermain dan menjadikan hidup kita lebih mudah.&#xA;Apa yang Anda Temukan di SuanggiTech? Di SuanggiTech, saya berusaha menjadi teman Anda yang paham betul tentang teknologi. Saya akan memperkenalkan Anda pada gadget-gadget keren terbaru dan memberikan solusi atas masalah teknis yang seringkali mengganggu kita.</description>
+    </item>
+  </channel>
+</rss>

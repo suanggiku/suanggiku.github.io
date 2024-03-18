@@ -1317,3 +1317,40 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+.produk {
+  border: 1px solid #eaeaea; /* Border lebih halus */
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: #f9f9f9; /* Background warna cerah */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Shadow untuk kedalaman */
+  border-radius: 8px; /* Sudut yang lebih bulat */
+  transition: transform 0.2s ease-in-out; /* Animasi saat di-hover */
+}
+
+.produk:hover {
+  transform: translateY(-5px); /* Efek 'mengambang' saat hover */
+}
+
+.produk h2 {
+  color: #333;
+  font-size: 20px; /* Ukuran font yang ramah */
+  font-family: 'Roboto', sans-serif; /* Font yang lebih terbuka */
+  margin-bottom: 15px;
+}
+
+.produk img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  border-radius: 4px; /* Sudut gambar bulat */
+}
+
+/* Menambahkan sedikit styling untuk link agar terlihat lebih menarik */
+.produk a {
+  display: inline-block;
+  text-decoration: none;
+  color: #007bff; /* Warna link */
+  font-weight: bold;
+}

@@ -766,7 +766,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 /* Table of Contents */
 .toc {
-	margin-bottom: 20px;
+  margin-top: 50px;
+	margin-bottom: 50px;
 	font-weight: 700;
 	color: #7a8288;
 	background: #fff;

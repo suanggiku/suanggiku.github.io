@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Suanggi Tech</title>
+    <link>https://suanggitech.my.id/tags/github/</link>
+    <description>Recent content in Github on Suanggi Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id_ID</language>
+    <lastBuildDate>Tue, 19 Mar 2024 06:16:52 +0000</lastBuildDate>
+    <atom:link href="https://suanggitech.my.id/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengatasi Custom Domain Github Pages Yang Error</title>
+      <link>https://suanggitech.my.id/post/custom-domain-github-pages-e-error/</link>
+      <pubDate>Tue, 19 Mar 2024 06:16:52 +0000</pubDate>
+      <guid>https://suanggitech.my.id/post/custom-domain-github-pages-e-error/</guid>
+      <description>&lt;p&gt;Hai teman-teman! Saya mau berbagi pengalaman nih tentang proses nyambungin &lt;strong&gt;custom domain ke blog Hugo di GitHub Pages&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

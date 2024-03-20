@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Suanggi Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id_ID</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 01:27:14 +0000</lastBuildDate>
     <atom:link href="https://suanggitech.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smartphone</title>
+      <link>https://suanggitech.my.id/categories/smartphone/</link>
+      <pubDate>Wed, 20 Mar 2024 01:27:14 +0000</pubDate>
+      <guid>https://suanggitech.my.id/categories/smartphone/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Android</title>
       <link>https://suanggitech.my.id/categories/android/</link>
@@ -41,13 +48,6 @@
       <link>https://suanggitech.my.id/categories/teknologi/</link>
       <pubDate>Mon, 18 Mar 2024 11:51:54 +0000</pubDate>
       <guid>https://suanggitech.my.id/categories/teknologi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smartphone</title>
-      <link>https://suanggitech.my.id/categories/smartphone/</link>
-      <pubDate>Mon, 18 Mar 2024 02:09:28 +0000</pubDate>
-      <guid>https://suanggitech.my.id/categories/smartphone/</guid>
       <description></description>
     </item>
   </channel>

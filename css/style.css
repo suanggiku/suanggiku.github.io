@@ -134,7 +134,7 @@ textarea {
 
 .btn:hover {
 	color: #fff;
-	background: #e22d30;
+	background: #b22222;
 }
 
 /* Animation */
@@ -193,7 +193,7 @@ a {
 }
 
 a:hover {
-	color: #e22d30;
+	color: #b22222;
 }
 
 hr {
@@ -299,7 +299,7 @@ blockquote {
 	margin: 0 0 20px;
 	margin: 0 0 1.25rem;
 	line-height: 1.6;
-	border-left: 5px solid #e22d30;
+	border-left: 5px solid #b22222;
 }
 
 blockquote p:last-child {
@@ -435,7 +435,7 @@ select {
 }
 
 .menu {
-	border-bottom: 5px solid #e22d30;
+	border-bottom: 5px solid #b22222;
 }
 
 .menu__btn {
@@ -444,7 +444,7 @@ select {
 	padding: .625rem .9375rem;
 	font: inherit;
 	color: #fff;
-	background: #e22d30;
+	background: #b22222;
 	border: 0;
 	outline: 0;
 	cursor: pointer;
@@ -481,7 +481,7 @@ select {
 }
 
 .menu__link:hover {
-	background: #e22d30;
+	background: #b22222;
 	color: #fff;
 }
 
@@ -532,7 +532,7 @@ select {
 }
 
 .meta a:hover {
-	color: #e22d30;
+	color: #b22222;
 }
 
 .meta__item {
@@ -554,8 +554,19 @@ select {
 	vertical-align: middle;
 }
 
+/* Post title */
 .post__title {
-	margin: 0;
+  font-size: 24px;
+  margin: 0;
+  color: #333;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.post__title:hover {
+  color: #007bff;
 }
 
 .post__meta {
@@ -580,7 +591,7 @@ select {
 }
 
 .post__meta-link:hover {
-	color: #e22d30;
+	color: #b22222;
 }
 
 .post__lead {
@@ -606,13 +617,13 @@ select {
 .warning a,
 .authorbox__description a {
 	font-weight: 700;
-	color: #e22d30;
+	color: #b22222;
 }
 
 .content a:hover,
 .warning a:hover,
 .authorbox__description a:hover {
-	color: #e22d30;
+	color: #b22222;
 	text-decoration: underline;
 }
 
@@ -694,7 +705,7 @@ select {
 }
 
 .tags__item:hover {
-	background: #e22d30;
+	background: #b22222;
 }
 
 .tags__link,
@@ -709,7 +720,7 @@ select {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	background: #e22d30;
+	background: #b22222;
 	fill: #fff;
 }
 
@@ -772,7 +783,7 @@ select {
 .toc__menu a {
 	display: block;
 	padding: 5px 10px;
-	color: #e22d30;
+	color: #b22222;
 	border-bottom: 1px solid #ebebeb;
 }
 
@@ -825,44 +836,53 @@ select {
 	}
 }
 
-
-/* List content */
 .list__item {
-	padding-bottom: 20px;
-	padding-bottom: 1.25rem;
-	margin-bottom: 20px;
-	margin-bottom: 1.25rem;
-	border-bottom: 1px solid #ebebeb;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .list__header {
-	margin-bottom: 10px;
-	margin-bottom: .625rem;
+  margin-bottom: 15px;
 }
 
 .list__title {
-	font-size: 20px;
-	font-size: 1.25rem;
+  font-size: 1.8rem;
+  color: #333;
 }
 
 .list__meta {
-	margin-top: 5px;
+  margin-top: 10px;
 }
 
 .list__thumbnail {
-	float: left;
-	margin: 0 20px 0 0;
+  float: left;
+  margin-right: 20px;
+  width: 120px;
+  height: auto;
+  overflow: hidden;
 }
 
 .list__thumbnail img {
-	width: 100%;
-	max-width: 235px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
 
 .list__footer-readmore {
-	float: right;
-	margin-top: 10px;
+  float: right;
+  margin-top: 15px;
+  color: #007bff;
+  text-decoration: none;
 }
+
+.list__footer-readmore:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
 
 /* Pagination */
 .pagination {
@@ -880,7 +900,7 @@ select {
 .pagination__item:hover,
 .pagination__item--current {
 	color: #fff;
-	background: #e22d30;
+	background: #b22222;
 }
 
 /* Pager (prev/next links) navigation */
@@ -1002,7 +1022,7 @@ input[type=reset] {
 
 input[type=submit]:hover,
 input[type=reset]:hover {
-	background: #e22d30;
+	background: #b22222;
 }
 
 textarea {
@@ -1031,7 +1051,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #e22d30;
+	border-bottom: 3px solid #b22222;
 }
 
 .widget__item {
@@ -1115,7 +1135,7 @@ textarea {
 
 .widget-languages__link:hover .widget-languages__link-btn {
 	color: #fff;
-	background: #e22d30;
+	background: #b22222;
 }
 
 .widget-languages__link-btn {

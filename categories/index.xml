@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Suanggi Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id_ID</language>
-    <lastBuildDate>Thu, 21 Mar 2024 23:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 05:02:09 +0000</lastBuildDate>
     <atom:link href="https://suanggitech.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teknologi</title>
+      <link>https://suanggitech.my.id/categories/teknologi/</link>
+      <pubDate>Fri, 22 Mar 2024 05:02:09 +0000</pubDate>
+      <guid>https://suanggitech.my.id/categories/teknologi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tips</title>
       <link>https://suanggitech.my.id/categories/tips/</link>
@@ -41,13 +48,6 @@
       <link>https://suanggitech.my.id/categories/celoteh-ku/</link>
       <pubDate>Tue, 19 Mar 2024 06:16:52 +0000</pubDate>
       <guid>https://suanggitech.my.id/categories/celoteh-ku/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teknologi</title>
-      <link>https://suanggitech.my.id/categories/teknologi/</link>
-      <pubDate>Mon, 18 Mar 2024 11:51:54 +0000</pubDate>
-      <guid>https://suanggitech.my.id/categories/teknologi/</guid>
       <description></description>
     </item>
   </channel>

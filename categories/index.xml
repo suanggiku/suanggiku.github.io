@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Suanggi Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id_ID</language>
-    <lastBuildDate>Fri, 22 Mar 2024 22:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 11:18:58 +0000</lastBuildDate>
     <atom:link href="https://suanggitech.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berita</title>
+      <link>https://suanggitech.my.id/categories/berita/</link>
+      <pubDate>Sat, 23 Mar 2024 11:18:58 +0000</pubDate>
+      <guid>https://suanggitech.my.id/categories/berita/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Teknologi</title>
       <link>https://suanggitech.my.id/categories/teknologi/</link>
